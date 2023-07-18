@@ -1,7 +1,7 @@
 # tesla-stock-tracking
 sending telegram message if TESLA stocks have changed more than 5%
 
-##Installation
+## Installation
 - ```cd tesla-stock-tracking```
 - Create Python environment using ```mkvirtualenv capacity-checker -p Python3```
 - Unfortunately, there is no requirements.txt so you must install the packages by hand
